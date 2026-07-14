@@ -1,0 +1,26 @@
+#### COMP6441 Project
+**This project focuses on the jailbreak attack of LLM and the security defense mechanism of LLM**
+
+This repository is the repository for the entire project, including the manual testing stage (Stage 1) and the automated testing stage (Stage 2). Does it specifically include screenshots and logs of manual testing or scripts for automated testing and generating various charts.
+
+
+## About the LLM I used
+The LLM subjects are divided into four categories: open-source local LLM, web-based free LLM, web-based paid LLM and uncensored local LLM
+
+The LLM of the subjects in Experiment Stage 1 is:
+1. open-source local LLM: llama3.2
+2. web-based free LLM: ChatGPT 5.5 instant
+3. web-based paid LLM: Gemini 3.1 Pro
+4. uncensored local LLM: DeepHat-V1-7B
+
+
+
+In Experiment Stage 1, I employed four layers of progressive attackers and four types of LLMs.
+And in Experiment Stage 2, The method I adopted is to use uncensored open-source LLM as the security tester and the other three models as the test subjects. 
+For convenience, I have changed four models, but the categories of the four models remain unchanged:
+1. open-source local LLM: llama3.2
+2. web-based free LLM: Minimax M2.7
+3. web-based paid LLM: Minimax M3
+4. uncensored local LLM: Qwen3.5-uncensored-HauhauCS-Aggressive:4b
+
+
