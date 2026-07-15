@@ -1,0 +1,5 @@
+model_name,total_round,Type 1,Type 2,Type 3,Type 4,SR,LR,,number_invalid_rounds,specific_types
+web_free_model,25,9,14,2,0,0,8,,,
+web_free_model,25,9,10,6,0,0,24,,3,113
+web_free_model,25,7,14,4,0,0,16,,1,1
+web_free_model,25,4,16,5,0,0,20,,6,311333
