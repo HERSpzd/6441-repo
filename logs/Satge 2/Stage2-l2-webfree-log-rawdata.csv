@@ -1,3 +1,4 @@
+model_name,total_round,Type 1,Type 2,Type 3,Type 4,SR,LR,,number_invalid_rounds,specific_types
 web_free_model,25,3,12,7,3,12,40,,0,N/A
 web_free_model,25,7,15,3,0,0,12,,1,1
 web_free_model,25,3,14,8,0,0,32,,1,3
