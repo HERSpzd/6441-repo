@@ -1,0 +1,5 @@
+model_name,total_round,Type 1,Type 2,Type 3,Type 4,SR,LR,,number_invalid_rounds,specific_types
+local_model,25,14,2,4,5,20,36,,3,333
+local_model,25,19,4,2,0,0,8,,3,331
+local_model,25,17,3,5,0,0,20,,7,3333131
+local_model,25,10,12,3,0,0,12,,2,31
